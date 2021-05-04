@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
 
-<!--
-**imxiongstu/imxiongstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello,**Im Xiong Stu**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m a [Bilibili UP & Software engineer](https://space.bilibili.com/3498548).
+- 💕 Open source enthusiast.
+- 👔 Software engineer.
+- 🧚‍♂️ Dog lover.
+- 🌱 Like to research technology & Video Clip.
+- ❤ My favorite language: C#、Java、Python
+- ❤ Target:Microsoft Most Valuable Professional.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imxiongstu&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imxiongstu&theme=cobalt&layout=compact)
+
+Blog: https://www.imxiongstu.cn
+
