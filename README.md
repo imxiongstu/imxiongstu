@@ -1,5 +1,3 @@
-<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
-
 
 Hello,**Im Xiong Stu**.
 
